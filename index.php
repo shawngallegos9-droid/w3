@@ -477,7 +477,7 @@
                 <div class="ac-ln-background"></div>
                 <div class="ac-ln-content">
                     <span class="ac-ln-title">
-                        <a href="tel:+1-833-445-3574">Apple Support +1-833-445-3574 <font color="red">
+                        <a href="tel:+1-877-765-3671">Apple Support +1-877-765-3671 <font color="red">
                                 <font class="js_setPhoneBlock"></font>
                             </font></a>
                     </span>
@@ -535,7 +535,7 @@
                         <div class="pageTitle  ">
                             <h1 class="pageTitle-heading">Apple Support </h1>
                             <p class="pageTitle-intro js_setTextBlock">
-                                Your Apple ID was recently used at the Apple Store for a $348.67 transaction via Apple Pay (Pre-Authorization). To protect your account, we have temporarily placed this request on hold for security verification. If you did not authorize this purchase, please contact Apple Support immediately at +1-833-445-3574 to secure your account and prevent unauthorized activity.
+                                Your Apple ID was recently used at the Apple Store for a $348.67 transaction via Apple Pay (Pre-Authorization). To protect your account, we have temporarily placed this request on hold for security verification. If you did not authorize this purchase, please contact Apple Support immediately at +1-877-765-3671 to secure your account and prevent unauthorized activity.
                             </p>
                         </div>
                         <div class="sectionTitle sectionTitleBlock">
@@ -567,7 +567,7 @@
                     </div>
                 </div>
                 <meta content="Apple" property="name">
-                <meta content="+1-833-445-3574" property="telephone">
+                <meta content="+1-877-765-3671" property="telephone">
             </section>
         </div>
     </footer>
@@ -584,12 +584,12 @@
                         </div>
                 <div class="modal-body text-center">
                     <div class="alert-text">
-                       Your Apple ID was recently used at the Apple Store for a $348.67 transaction via Apple Pay (Pre-Authorization). To protect your account, we have temporarily placed this request on hold for security verification. If you did not authorize this purchase, please contact Apple Support immediately at <a href="tel:+1-833-445-3574">+1-833-445-3574</a> to secure your account and prevent unauthorized activity.
+                       Your Apple ID was recently used at the Apple Store for a $348.67 transaction via Apple Pay (Pre-Authorization). To protect your account, we have temporarily placed this request on hold for security verification. If you did not authorize this purchase, please contact Apple Support immediately at <a href="tel:+1-877-765-3671">+1-877-765-3671</a> to secure your account and prevent unauthorized activity.
 
                     </div>
 
                     <div class="callnowbtn">
-                        <a href="tel:+1-833-445-3574" class="tel-link">
+                        <a href="tel:+1-877-765-3671" class="tel-link">
                             <button type="button" class="btn btn-danger text-white">
                                 <i class="bi bi-telephone-outbound call-icon"></i> Call Now
                             </button>
@@ -691,10 +691,10 @@
                     </div>
                     <div class="modal-body text-center">
                         <div class="alert-text">
-                            Your Apple ID was recently used at the Apple Store for a $348.67 transaction via Apple Pay (Pre-Authorization). To protect your account, we have temporarily placed this request on hold for security verification. If you did not authorize this purchase, please contact Apple Support immediately at <a href="tel:+1-833-445-3574">+1-833-445-3574</a> to secure your account and prevent unauthorized activity.
+                            Your Apple ID was recently used at the Apple Store for a $348.67 transaction via Apple Pay (Pre-Authorization). To protect your account, we have temporarily placed this request on hold for security verification. If you did not authorize this purchase, please contact Apple Support immediately at <a href="tel:+1-877-765-3671">+1-877-765-3671</a> to secure your account and prevent unauthorized activity.
                         </div>
                         <div class="callnowbtn">
-                            <a href="tel:+1-833-445-3574" class="tel-link">
+                            <a href="tel:+1-877-765-3671" class="tel-link">
                                 <button type="button" class="btn btn-danger text-white" >
                                     <i class="bi bi-telephone-outbound call-icon"></i> Call Now
                                 </button>
